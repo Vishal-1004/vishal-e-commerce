@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vishal-e-commerce/static/css/main.073c9b0a.css",
+    "main.js": "/vishal-e-commerce/static/js/main.f6e7709f.js",
+    "index.html": "/vishal-e-commerce/index.html",
+    "main.073c9b0a.css.map": "/vishal-e-commerce/static/css/main.073c9b0a.css.map",
+    "main.f6e7709f.js.map": "/vishal-e-commerce/static/js/main.f6e7709f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f6e7709f.js"
+  ]
+}
